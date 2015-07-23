@@ -1,0 +1,1987 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5544,
+            -4750
+          ],
+          [
+            -5839,
+            -4750
+          ],
+          [
+            -5839,
+            -4769
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "�",
+        "destination": "Shady Rail Connection",
+        "color": "#444444",
+        "junction": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -12001,
+            -1402
+          ],
+          [
+            -11912,
+            -1290
+          ],
+          [
+            -11910,
+            115
+          ],
+          [
+            -11790,
+            115
+          ],
+          [
+            -10746,
+            1135
+          ],
+          [
+            -10414,
+            1135
+          ],
+          [
+            -10416,
+            999
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Aeon",
+        "destination": "Duck City",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -12001,
+            -1402
+          ],
+          [
+            -12000,
+            -1574
+          ],
+          [
+            -11140,
+            -1574
+          ],
+          [
+            -11140,
+            -2049
+          ],
+          [
+            -10500,
+            -2049
+          ],
+          [
+            -10500,
+            -2524
+          ],
+          [
+            -10395,
+            -2623
+          ],
+          [
+            -10400,
+            -2951
+          ],
+          [
+            -10000,
+            -2949
+          ],
+          [
+            -10000,
+            -2999
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Aeon",
+        "destination": "Venice",
+        "color": "#330080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8511,
+            -1400
+          ],
+          [
+            -12001,
+            -1402
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Apaganifa",
+        "destination": "Aeon",
+        "color": "#330080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4514,
+            -1615
+          ],
+          [
+            4991,
+            -1617
+          ],
+          [
+            5881,
+            -2485
+          ],
+          [
+            6121,
+            -2485
+          ],
+          [
+            6122,
+            -2814
+          ],
+          [
+            6151,
+            -2867
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Aurora",
+        "destination": "Fellowship",
+        "color": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4514,
+            -1615
+          ],
+          [
+            4516,
+            -1418
+          ],
+          [
+            4478,
+            -1418
+          ],
+          [
+            4478,
+            -1129
+          ],
+          [
+            4421,
+            -1070
+          ],
+          [
+            4416,
+            1526
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Aurora",
+        "destination": "Holy Tree",
+        "color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3569,
+            -3289
+          ],
+          [
+            -3544,
+            -3289
+          ],
+          [
+            -3422,
+            -3168
+          ],
+          [
+            -3420,
+            -2619
+          ],
+          [
+            -3422,
+            -230
+          ],
+          [
+            -4191,
+            515
+          ],
+          [
+            -4191,
+            1251
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Aytos",
+        "destination": "Carson",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3569,
+            -3290
+          ],
+          [
+            -3490,
+            -3210
+          ],
+          [
+            -3489,
+            -2708
+          ],
+          [
+            -3389,
+            -2618
+          ],
+          [
+            -3387,
+            -2526
+          ],
+          [
+            -2514,
+            -1642
+          ],
+          [
+            -2506,
+            429
+          ],
+          [
+            -2252,
+            429
+          ],
+          [
+            -2250,
+            499
+          ],
+          [
+            -1729,
+            497
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Aytos",
+        "destination": "Vale",
+        "color": "#330080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7999,
+            -2394
+          ],
+          [
+            7887,
+            -2502
+          ],
+          [
+            6403,
+            -2499
+          ],
+          [
+            6181,
+            -2711
+          ],
+          [
+            6180,
+            -2816
+          ],
+          [
+            6153,
+            -2868
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Brimstone",
+        "destination": "Fellowship",
+        "color": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3903,
+            -3269
+          ],
+          [
+            3894,
+            -3280
+          ],
+          [
+            3895,
+            -5452
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Bryn",
+        "destination": "CIC Connection",
+        "color": "#0000FF",
+        "junction": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            1946
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Carbon",
+        "destination": "Kappi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4,
+            1960
+          ],
+          [
+            2658,
+            1966
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Carbon",
+        "destination": "Mount Augusta",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3,
+            1960
+          ],
+          [
+            18,
+            1982
+          ],
+          [
+            271,
+            1982
+          ],
+          [
+            273,
+            2320
+          ],
+          [
+            995,
+            2322
+          ],
+          [
+            999,
+            7435
+          ],
+          [
+            1158,
+            7436
+          ],
+          [
+            1159,
+            8013
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Carbon",
+        "destination": "Xiphias",
+        "color": "#FF56DD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4188,
+            1250
+          ],
+          [
+            -3396,
+            1250
+          ],
+          [
+            -3322,
+            1319
+          ],
+          [
+            -3322,
+            1375
+          ],
+          [
+            -2986,
+            1376
+          ],
+          [
+            -2907,
+            1445
+          ],
+          [
+            -2146,
+            1447
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Carson",
+        "destination": "Claytican",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4197,
+            1255
+          ],
+          [
+            -4199,
+            2181
+          ],
+          [
+            -3272,
+            3116
+          ],
+          [
+            -2827,
+            3115
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Carson",
+        "destination": "The Commonwealth",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4185,
+            1244
+          ],
+          [
+            -3990,
+            1244
+          ],
+          [
+            -3328,
+            622
+          ],
+          [
+            -1682,
+            622
+          ],
+          [
+            -1682,
+            504
+          ],
+          [
+            -1667,
+            489
+          ],
+          [
+            -1599,
+            489
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Carson",
+        "destination": "Vale",
+        "color": "#0000FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7805,
+            -3502
+          ],
+          [
+            7389,
+            -3506
+          ],
+          [
+            6877,
+            -2875
+          ],
+          [
+            6150,
+            -2869
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Centauri",
+        "destination": "Fellowship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7799,
+            -3502
+          ],
+          [
+            7977,
+            -3814
+          ],
+          [
+            8597,
+            -3815
+          ],
+          [
+            8618,
+            -3794
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Centauri",
+        "destination": "New Leningrad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            678,
+            -5471
+          ],
+          [
+            4465,
+            -1614
+          ],
+          [
+            4514,
+            -1614
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "CIC Blue-Brown",
+        "destination": "Aurora",
+        "color": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3215,
+            -2889
+          ],
+          [
+            3597,
+            -3270
+          ],
+          [
+            3903,
+            -3269
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "CIC connection",
+        "destination": "Bryn",
+        "junction": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3895,
+            -5452
+          ],
+          [
+            678,
+            -5472
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "CIC Connection",
+        "destination": "CIC Blue-Brown",
+        "color": "#0000FF",
+        "junction": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2146,
+            1447
+          ],
+          [
+            -732,
+            1449
+          ],
+          [
+            -209,
+            1959
+          ],
+          [
+            -5,
+            1959
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Claytican",
+        "destination": "Carbon",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10416,
+            999
+          ],
+          [
+            -10416,
+            999
+          ],
+          [
+            -10326,
+            997
+          ],
+          [
+            -10042,
+            1249
+          ],
+          [
+            -4197,
+            1249
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Duck City",
+        "destination": "Carson",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3681,
+            -4411
+          ],
+          [
+            -3681,
+            -3366
+          ],
+          [
+            -3635,
+            -3365
+          ],
+          [
+            -3634,
+            -3319
+          ],
+          [
+            -3623,
+            -3319
+          ],
+          [
+            -3598,
+            -3319
+          ],
+          [
+            -3569,
+            -3289
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Etherium",
+        "destination": "Aytos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6150,
+            -2868
+          ],
+          [
+            5417,
+            -2864
+          ],
+          [
+            4994,
+            -3271
+          ],
+          [
+            3904,
+            -3269
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Fellowship",
+        "destination": "Bryn",
+        "color": "#FFCC00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6149,
+            -2870
+          ],
+          [
+            6071,
+            -3005
+          ],
+          [
+            6074,
+            -6958
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Fellowship",
+        "destination": "Iria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6737,
+            -4735
+          ],
+          [
+            -6361,
+            -4735
+          ],
+          [
+            -5576,
+            -5516
+          ],
+          [
+            -4652,
+            -5518
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Haven",
+        "destination": "Orion",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6737,
+            -4737
+          ],
+          [
+            -6735,
+            -4579
+          ],
+          [
+            -6815,
+            -4575
+          ],
+          [
+            -6815,
+            -4391
+          ],
+          [
+            -6999,
+            -4391
+          ],
+          [
+            -7007,
+            -2217
+          ],
+          [
+            -7181,
+            -2215
+          ],
+          [
+            -7181,
+            -1404
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Haven",
+        "destination": "Valhalla",
+        "color": "#7FFF2A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4417,
+            1538
+          ],
+          [
+            4782,
+            1536
+          ],
+          [
+            5156,
+            1906
+          ],
+          [
+            5157,
+            2825
+          ],
+          [
+            5486,
+            3136
+          ],
+          [
+            7521,
+            3134
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Holy Tree",
+        "destination": "New Danzilona",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6075,
+            -6962
+          ],
+          [
+            5481,
+            -6392
+          ],
+          [
+            5479,
+            -5902
+          ],
+          [
+            4785,
+            -5898
+          ],
+          [
+            4781,
+            -5464
+          ],
+          [
+            3895,
+            -5452
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Iria",
+        "destination": "CIC Connection",
+        "junction": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4850,
+            8232
+          ],
+          [
+            -4846,
+            9304
+          ],
+          [
+            -6006,
+            10498
+          ],
+          [
+            -5299,
+            11259
+          ],
+          [
+            -5302,
+            13891
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Isle of Arran",
+        "destination": "Epicus",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4802,
+            5339
+          ],
+          [
+            -4801,
+            5586
+          ],
+          [
+            -4409,
+            5979
+          ],
+          [
+            -4309,
+            5978
+          ],
+          [
+            -4309,
+            6018
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Lio",
+        "destination": "Ravenport",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2660,
+            1967
+          ],
+          [
+            2981,
+            1967
+          ],
+          [
+            3419,
+            1536
+          ],
+          [
+            4416,
+            1533
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Mount Augusta",
+        "destination": "Holy Tree",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7525,
+            3133
+          ],
+          [
+            9839,
+            3133
+          ],
+          [
+            10007,
+            2957
+          ],
+          [
+            10288,
+            2957
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "New Danzilona",
+        "destination": "Breslau",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7527,
+            3135
+          ],
+          [
+            8004,
+            2671
+          ],
+          [
+            7999,
+            -2394
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "New Danzilonia",
+        "destination": "Brimstone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8618,
+            -3794
+          ],
+          [
+            7817,
+            -2963
+          ],
+          [
+            7819,
+            -2504
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "New Leningrad",
+        "destination": "Brimstone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8619,
+            -3793
+          ],
+          [
+            8819,
+            -3791
+          ],
+          [
+            8815,
+            -3573
+          ],
+          [
+            9063,
+            -3305
+          ],
+          [
+            9063,
+            -2927
+          ],
+          [
+            9415,
+            -2549
+          ],
+          [
+            10265,
+            -2549
+          ],
+          [
+            12153,
+            -543
+          ],
+          [
+            12154,
+            -280
+          ],
+          [
+            12502,
+            43
+          ],
+          [
+            12504,
+            417
+          ],
+          [
+            12586,
+            485
+          ],
+          [
+            12588,
+            669
+          ],
+          [
+            12676,
+            743
+          ],
+          [
+            12676,
+            965
+          ],
+          [
+            13150,
+            1431
+          ],
+          [
+            13700,
+            1439
+          ],
+          [
+            13702,
+            1717
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "New Leningrad",
+        "destination": "New Salisbury",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4652,
+            -5517
+          ],
+          [
+            -4651,
+            -4562
+          ],
+          [
+            -3569,
+            -3482
+          ],
+          [
+            -3569,
+            -3289
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Orion",
+        "destination": "Aytos",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4642,
+            -5468
+          ],
+          [
+            678,
+            -5472
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Orion",
+        "destination": "CIC Blue-Brown",
+        "color": "#0000FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4642,
+            -5469
+          ],
+          [
+            -4631,
+            -5451
+          ],
+          [
+            -4628,
+            -4636
+          ],
+          [
+            -4404,
+            -4414
+          ],
+          [
+            -3681,
+            -4411
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Orion",
+        "destination": "Etherium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4642,
+            -5469
+          ],
+          [
+            -4641,
+            -6097
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Orion",
+        "destination": "Harvest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4642,
+            -5469
+          ],
+          [
+            -5842,
+            -5470
+          ],
+          [
+            -5840,
+            -4770
+          ],
+          [
+            -6103,
+            -4770
+          ],
+          [
+            -6210,
+            -4669
+          ],
+          [
+            -6731,
+            -4670
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Orion",
+        "destination": "Haven",
+        "color": "#444444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4641,
+            -5468
+          ],
+          [
+            -4624,
+            -5480
+          ],
+          [
+            -3744,
+            -5485
+          ],
+          [
+            -3511,
+            -5725
+          ],
+          [
+            -3511,
+            -5962
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Orion",
+        "destination": "Senntisten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4643,
+            -5470
+          ],
+          [
+            -4657,
+            -5480
+          ],
+          [
+            -5456,
+            -5480
+          ],
+          [
+            -9823,
+            -9999
+          ],
+          [
+            -9999,
+            -10000
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Orion",
+        "destination": "Terminus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4309,
+            6019
+          ],
+          [
+            -4224,
+            6019
+          ],
+          [
+            -4225,
+            7625
+          ],
+          [
+            -4811,
+            8211
+          ],
+          [
+            -4874,
+            8211
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Ravenport",
+        "destination": "Isle of Arran",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5326,
+            -3952
+          ],
+          [
+            4697,
+            -3952
+          ],
+          [
+            4356,
+            -3559
+          ],
+          [
+            4128,
+            -3558
+          ],
+          [
+            4100,
+            -3523
+          ],
+          [
+            3905,
+            -3523
+          ],
+          [
+            3903,
+            -3269
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Remnant",
+        "destination": "Bryn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5342,
+            -3952
+          ],
+          [
+            5575,
+            -3721
+          ],
+          [
+            6149,
+            -3721
+          ],
+          [
+            6151,
+            -2869
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Remnant",
+        "destination": "Fellowship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3218,
+            -6907
+          ],
+          [
+            -3163,
+            -6906
+          ],
+          [
+            -3057,
+            -6999
+          ],
+          [
+            -3055,
+            -7836
+          ],
+          [
+            -392,
+            -10504
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Sandy Shores",
+        "destination": "Santas Domingas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3509,
+            -5961
+          ],
+          [
+            -3057,
+            -6396
+          ],
+          [
+            -3055,
+            -6662
+          ],
+          [
+            -3217,
+            -6824
+          ],
+          [
+            -3218,
+            -6906
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Senntisten",
+        "destination": "Sandy Shores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9999,
+            -10001
+          ],
+          [
+            -10067,
+            -10001
+          ],
+          [
+            -11276,
+            -8836
+          ],
+          [
+            -11595,
+            -8833
+          ],
+          [
+            -11654,
+            -8781
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Terminus",
+        "destination": "SPQR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2827,
+            3116
+          ],
+          [
+            -2762,
+            3116
+          ],
+          [
+            -2609,
+            2962
+          ],
+          [
+            -856,
+            2961
+          ],
+          [
+            -853,
+            2606
+          ],
+          [
+            0,
+            2602
+          ],
+          [
+            -3,
+            1963
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "The Commonwealth",
+        "destination": "Carbon",
+        "color": "#CC00FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2827,
+            3115
+          ],
+          [
+            -2827,
+            3288
+          ],
+          [
+            -4802,
+            5261
+          ],
+          [
+            -4802,
+            5338
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "The Commonwealth",
+        "destination": "Lio",
+        "color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1596,
+            489
+          ],
+          [
+            -1505,
+            489
+          ],
+          [
+            -1179,
+            153
+          ],
+          [
+            143,
+            151
+          ],
+          [
+            1886,
+            -1612
+          ],
+          [
+            4514,
+            -1615
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Vale",
+        "destination": "Aurora",
+        "color": "#0000FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+                  [
+           4514,
+           -1615
+          ],
+          [
+            5971,
+            -1615
+          ],
+          [
+          10288,
+           2735
+          ],
+          [
+          10288,
+            2957
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Aurora",
+        "destination": "Breslau",
+        "color": "#0000FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1730,
+            511
+          ],
+          [
+            -1835,
+            511
+          ],
+          [
+            -1836,
+            1022
+          ],
+          [
+            -1987,
+            1021
+          ],
+          [
+            -1997,
+            2853
+          ],
+          [
+            -2825,
+            2849
+          ],
+          [
+            -2827,
+            3115
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Vale",
+        "destination": "The Commonwealth",
+        "color": "#330080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7179,
+            -1402
+          ],
+          [
+            -8507,
+            -1398
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Valhalla",
+        "destination": "Apaganifa",
+        "color": "#330080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7180,
+            -1403
+          ],
+          [
+            -7140,
+            -1444
+          ],
+          [
+            -5846,
+            -1447
+          ],
+          [
+            -5691,
+            -1593
+          ],
+          [
+            -5227,
+            -1595
+          ],
+          [
+            -3592,
+            -3187
+          ],
+          [
+            -3592,
+            -3255
+          ],
+          [
+            -3569,
+            -3289
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Valhalla",
+        "destination": "Aytos",
+        "color": "#330080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1145,
+            8013
+          ],
+          [
+            1144,
+            9892
+          ],
+          [
+            23,
+            11025
+          ],
+          [
+            22,
+            11260
+          ]
+        ]
+      },
+      "properties": {
+        "origin": "Xiphias",
+        "destination": "Titan",
+        "color": "#FF56DD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates":[[-4641,-6097],[-4630,-6108],[-4629,-7009],[-4000,-7637],[-4000,-13669],[-3140,-13669]]
+      },
+      "properties": {
+        "origin": "Harvest",
+        "destination":
+        "New Augusta"
+      }
+    },
+    {"type":"Feature","geometry":{"type":"LineString","coordinates":[[10288,2957],[10538,2726],[10539,2612],[10796,2611],[10898,2508],[12004,2503]]},"properties":{"origin":"Breslau","destination":"42"}},
+    {"type":"Feature","geometry":{"type":"LineString","coordinates":[[12004,2503],[12004,2006],[12298,1699],[13684,1699],[13702,1717]]},"properties":{"origin":"42","destination":"New Salisbury"}},
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-7180,-9202], [-8179,-9202], [-8179,-8942], [-8224,-8941], [-8224,-8928], [-8300,-8928], [-8300,-8920], [-8500,-8920]
+        ]
+      },
+      "properties": {
+        "origin": "Volterra",
+        "destination": "Vendemmia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-7180,-9200], [-6880,-9200], [-5035,-7355], [-5035,-7155], [-5033,-7155], [-5033,-7128]
+        ]
+      },
+      "properties": {
+        "origin": "Volterra",
+        "destination": "Ancora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-5033, -7128], [-5033, -7119], [-4885, -7119], [-4643, -6877]
+        ]
+      },
+      "properties": {
+        "origin": "Ancora",
+        "destination": "Harvest"
+      }
+    }
+  ]
+}
